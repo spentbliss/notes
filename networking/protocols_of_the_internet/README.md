@@ -10,96 +10,99 @@ Use this [website](https://datatracker.ietf.org/) and for example starting off
 with IPv4 in the search bar we type RFC 791 and for other protocols i've
 provided the necessary number to find the document for the protocol. 
 
-
-  
 # PROTOCOLS TO LEARN
 
 1. **Internet Protocol (IP)**
    - **IPv4**: RFC 791
    - **IPv6**: RFC 8200
    - Understanding IP is crucial as it is the primary protocol for routing
-    packets across networks.
+     packets across networks.
 
 2. **Transmission Control Protocol (TCP)**
-   - RFC: 793
-   - TCP is essential for understanding how reliable communication is
+    - RFC: 793
+     - TCP is essential for understanding how reliable communication is
      established over IP.
 
 3. **User Datagram Protocol (UDP)**
    - RFC: 768
    - Learn about UDP to understand connectionless communication and its use cases.
 
-4. **Internet Control Message Protocol (ICMP)**
+4. **Transport Layer Security (TLS)**
+   - RFC: RFC 5246 (TLS 1.2) and RFC 8446 (TLS 1.3)
+   - Importance: Provides secure communication over a computer network, widely
+     used to secure web traffic (HTTPS), email, and other protocols.
+
+5. **Internet Control Message Protocol (ICMP)**
    - RFC: 792
    - ICMP is important for network diagnostics and error reporting.
 
-5. **Domain Name System (DNS)**
+6. **Domain Name System (DNS)**
    - RFC: 1035
    - DNS is critical for translating human-readable domain names into IP addresses.
 
-6. **Dynamic Host Configuration Protocol (DHCP)**
+7. **Dynamic Host Configuration Protocol (DHCP)**
    - RFC: 2131
    - DHCP is used for dynamically assigning IP addresses to devices on a network.
 
-7. **Network Time Protocol (NTP)**
+8. **Network Time Protocol (NTP)**
    - RFC: 5905
    - NTP is important for synchronizing clocks across devices in a network.
 
-8. **File Transfer Protocol (FTP)**
+9. **File Transfer Protocol (FTP)**
    - RFC: 959
    - FTP is a foundational protocol for transferring files over the internet.
 
-9. **Hypertext Transfer Protocol (HTTP)**
+10. **Hypertext Transfer Protocol (HTTP)**
    - RFC: 7230 (HTTP/1.1)
    - HTTP is the protocol used for transferring web pages.
 
-10. **Hypertext Transfer Protocol Secure (HTTPS)**
+11. **Hypertext Transfer Protocol Secure (HTTPS)**
     - RFC: 2818 (HTTP over TLS)
     - Understanding HTTPS is crucial for secure web communication.
 
-11. **Simple Mail Transfer Protocol (SMTP)**
+12. **Simple Mail Transfer Protocol (SMTP)**
     - RFC: 5321
     - SMTP is the standard protocol for sending emails.
 
-12. **Post Office Protocol (POP3)**
+13. **Post Office Protocol (POP3)**
     - RFC: 1939
     - POP3 is used for retrieving emails from a server.
 
-13. **Internet Message Access Protocol (IMAP)**
+14. **Internet Message Access Protocol (IMAP)**
     - RFC: 3501
     - IMAP is another protocol for retrieving emails, with more features than POP3.
 
-14. **Multipurpose Internet Mail Extensions (MIME)**
+15. **Multipurpose Internet Mail Extensions (MIME)**
     - RFC: 2045
     - MIME is important for understanding how emails can include different types
       of content.
 
-15. **Secure Shell (SSH)**
+16. **Secure Shell (SSH)**
     - RFC: 4251
     - SSH is essential for secure remote administration and file transfers.
 
-16. **Real-Time Transport Protocol (RTP)**
+17. **Real-Time Transport Protocol (RTP)**
     - RFC: 3550
     - RTP is used for delivering audio and video over IP networks.
 
-17. **Session Initiation Protocol (SIP)**
+18. **Session Initiation Protocol (SIP)**
     - RFC: 3261
     - SIP is used for initiating, maintaining, and terminating real-time sessions.
 
-18. **Lightweight Directory Access Protocol (LDAP)**
+19. **Lightweight Directory Access Protocol (LDAP)**
     - RFC: 4511
     - LDAP is used for accessing and maintaining distributed directory information
       services.
 
-19. **Simple Network Management Protocol (SNMP)**
+20. **Simple Network Management Protocol (SNMP)**
     - RFC: 1157
     - SNMP is used for network management and monitoring.
 
-20. **WebSocket**
+21. **WebSocket**
     - RFC: 6455
     - WebSocket is important for real-time communication between clients and servers.
 
-21. **Real-Time Transport Control Protocol (RTCP)**
+22. **Real-Time Transport Control Protocol (RTCP)**
     - While not listed, RTCP is often paired with RTP and is worth understanding
       for managing RTP sessions.
 
