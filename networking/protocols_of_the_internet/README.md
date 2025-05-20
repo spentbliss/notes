@@ -4,12 +4,7 @@ To build a strong foundation in networking and understand the protocols
 that the internet runs on, it's important to learn them in a logical order.
 Starting from the most fundamental protocols to more application-specific ones:
 
-# PROTOCOLS TO LEARN
-## PROTOCOLS TO LEARN 
-### PROTOCOLS TO LEARN
-#### PROTOCOLS TO LEARN
-##### PROTOCOLS TO LEARN
-###### PROTOCOLS TO LEARN
+## PROTOCOLS TO LEARN
 
 1. **Internet Protocol (IP)**
    - **IPv4**: RFC 791
