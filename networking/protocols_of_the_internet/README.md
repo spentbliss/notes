@@ -4,13 +4,12 @@ To build a strong foundation in networking and understand the protocols
 that the internet runs on, it's important to learn them in a logical order.
 Starting from the most fundamental protocols to more application-specific ones:
 
-# HOW TO VIEW THE RFC DOCUMENTS
-
-Use this [website](https://datatracker.ietf.org/) and for example starting off
-with IPv4 in the search bar we type RFC 791 and for other protocols i've
-provided the necessary number to find the document for the protocol. 
-
 # PROTOCOLS TO LEARN
+## PROTOCOLS TO LEARN 
+### PROTOCOLS TO LEARN
+#### PROTOCOLS TO LEARN
+##### PROTOCOLS TO LEARN
+###### PROTOCOLS TO LEARN
 
 1. **Internet Protocol (IP)**
    - **IPv4**: RFC 791
